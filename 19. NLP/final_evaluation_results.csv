@@ -1,0 +1,6 @@
+Evaluation Metric,Score
+Accuracy,0.8585
+Negative Precision,0.8558994197292069
+Negative Recall,0.8684985279685966
+Negative F1 Score,0.8621529469069654
+ROC-AUC,0.9303118425751695

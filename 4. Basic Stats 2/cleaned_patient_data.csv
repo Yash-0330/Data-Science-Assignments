@@ -1,0 +1,6 @@
+PatientID,Name,Department,Doctor,BillAmount
+101,Alice,Cardiology,Dr. Smith,5000.0
+102,Bob,Neurology,Dr. John,6233.333333333333
+103,Charlie,Orthopedics,Dr. Lee,7500.0
+104,David,Cardiology,Dr. Smith,6200.0
+105,Eva,Dermatology,Dr. Rose,6233.333333333333

@@ -1,0 +1,9 @@
+PatientID,Department,Doctor,BillAmount,InsuranceCovered,FinalAmount
+101,Cardiology,Dr. Smith,5000.0,True,15000.0
+102,Neurology,Dr. John,,False,12000.0
+103,Orthopedics,Dr. Lee,7500.0,,
+104,Cardiology,Dr. Smith,6200.0,,
+105,Dermatology,Dr. Rose,,,
+101,Cardiology,Dr. Smith,5000.0,,
+1001,Cardiology,Dr. Sharma,15000.0,,
+1002,Orthopedics,Dr. Patil,12000.0,,

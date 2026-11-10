@@ -1,0 +1,7 @@
+PatientID,Name_Patient,Department_Patient,Doctor_Patient,BillAmount_Patient,Name_Billing,Department_Billing,Doctor_Billing,BillAmount_Billing,ReceptionistID,CheckInTime
+101,Alice,Cardiology,Dr. Smith,5000.0,Alice,Cardiology,Dr. Smith,5000.0,1,2023-01-10 09:00
+101,Alice,Cardiology,Dr. Smith,5000.0,Alice,Cardiology,Dr. Smith,5000.0,1,2023-01-10 09:00
+102,Bob,Neurology,Dr. John,6233.333333333333,Bob,Neurology,Dr. John,5925.0,2,2023-01-11 10:30
+103,Charlie,Orthopedics,Dr. Lee,7500.0,Charlie,Orthopedics,Dr. Lee,7500.0,1,2023-01-12 11:00
+104,David,Cardiology,Dr. Smith,6200.0,David,Cardiology,Dr. Smith,6200.0,3,2023-01-13 12:00
+105,Eva,Dermatology,Dr. Rose,6233.333333333333,Eva,Dermatology,Dr. Rose,5925.0,2,2023-01-14 08:45
